@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f2d33bf-4246-439a-af87-851f1e5f25df" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/br/com/desafio/automacaoweb/taskit/signup/SignUpTests.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ntGMKXkaKTgIjJbgM0OGxRdLPo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SauceDemoTests.testeRegistrarUmNovoUsuarioComDadosValidos.executor": "Run",
+    "JUnit.SignUpTests.executor": "Run",
+    "JUnit.SignUpTests.testeRegistrarUmNovoUsuarioComDadosValidos.executor": "Run",
+    "Maven.automacaoweb [clean].executor": "Run",
+    "Maven.automacaoweb [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SauceDemoTests.testeRegistrarUmNovoUsuarioComDadosValidos">
+    <configuration name="SauceDemoTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacaoweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.desafio.automacaoweb.taskit.signup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.desafio.automacaoweb.taskit.signup" />
+      <option name="MAIN_CLASS_NAME" value="br.com.desafio.automacaoweb.taskit.signup.SauceDemoTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemoTests.testeRegistrarUmNovoUsuarioComDadosValidos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automacaoweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.desafio.automacaoweb.taskit.signup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.desafio.automacaoweb.taskit.signup" />
+      <option name="MAIN_CLASS_NAME" value="br.com.desafio.automacaoweb.taskit.signup.SauceDemoTests" />
+      <option name="METHOD_NAME" value="testeRegistrarUmNovoUsuarioComDadosValidos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SauceDemoTests.testeRegistrarUmNovoUsuarioComDadosValidos" />
+        <item itemvalue="JUnit.SauceDemoTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f2d33bf-4246-439a-af87-851f1e5f25df" name="Changes" comment="" />
+      <created>1729784911258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729784911258</updated>
+    </task>
+    <servers />
+  </component>
+</project>
